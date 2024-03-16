@@ -19,7 +19,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_svg: ^2.0.9
-  rive: ^0.12.4
+  rive:  0.9.1
   vector_graphics: ^1.1.10+1
 
 dev_dependencies:
